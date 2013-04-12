@@ -1,0 +1,8 @@
+
+tom:
+	first_name: "Tom"
+	last_name: "Wisniewski"
+	email: "t.wisniewski@hotmail.com"
+	profile_name: "tomwisniewski"
+	password: "spurs"
+	password_confirmation: "spurs"
